@@ -9,7 +9,7 @@ I've worked in tech for a long time and still love tinkering with code. These da
 ### Featured projects
 | Project | What it does |
 |---|---|
-| [database-chat-app](https://github.com/bospoort/database-chat-app) | Chat with a SQL database in plain English (React, Azure Functions, Gemini) |
+| [PH Database Chat Bot](https://github.com/bospoort/PH-Database-Chat-Bot) | Chat with a SQL database in plain English (React, Azure Functions, Gemini) |
 | [llmconvo](https://github.com/bospoort/llmconvo) | FastAPI service that has two LLM personas hold a conversation on any topic |
 | [voldon](https://github.com/bospoort/voldon) | REST API for managing a shelter's donation inventory (FastAPI) |
 
